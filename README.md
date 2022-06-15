@@ -18,7 +18,7 @@
    </h1></center>
   <ol>
    <p><strong>Гарчиг</strong></p>
-   <li><p><a>Нүүр</a></p></li>
+   <li><p><a href="Rename.md">Нүүр</a></p></li>
    <li><p><a href="миний тухай6.html"> Миний тухай</a></p></li>
    <li><p><a href="миний хобби.html">Миний хобби</a></p></li>
    <li><p><a href="гэр бүл.html">Гэр бүл</a></p></li>
